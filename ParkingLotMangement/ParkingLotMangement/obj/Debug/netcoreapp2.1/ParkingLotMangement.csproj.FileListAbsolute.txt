@@ -1,0 +1,11 @@
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\bin\Debug\netcoreapp2.1\ParkingLotMangement.deps.json
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\bin\Debug\netcoreapp2.1\ParkingLotMangement.runtimeconfig.json
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\bin\Debug\netcoreapp2.1\ParkingLotMangement.runtimeconfig.dev.json
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\bin\Debug\netcoreapp2.1\ParkingLotMangement.dll
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\bin\Debug\netcoreapp2.1\ParkingLotMangement.pdb
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.csprojAssemblyReference.cache
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.csproj.CoreCompileInputs.cache
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.AssemblyInfoInputs.cache
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.AssemblyInfo.cs
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.dll
+C:\Users\pranavi.m\source\repos\ParkingLotMangement\ParkingLotMangement\obj\Debug\netcoreapp2.1\ParkingLotMangement.pdb
